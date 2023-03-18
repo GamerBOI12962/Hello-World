@@ -1,5 +1,5 @@
-# Hello-World
-A Hello, World program
+# Hello, World
+A "Hello, World" program
 Credits:
 Turbowarp packager converts scratch projects to HTML EXE or OTHER
 https://packager.turbowarp.io
